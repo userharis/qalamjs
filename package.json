@@ -1,0 +1,9 @@
+{
+  "name": "qalam",
+  "private": true,
+  "author": "Muhammad Haris <mail@mharis.me>",
+  "license": "Apache-2.0",
+  "workspaces": [
+    "./packages/*"
+  ]
+}
